@@ -1,0 +1,21 @@
+{
+    "name": "Orario Patrizia",
+    "short_name": "Orario",
+    "description": "Orario per la settimana",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4C86D1",
+    "theme_color": "#4C86D1",
+    "icons": [
+        {
+            "src": "/ICON.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/ICON.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
